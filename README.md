@@ -31,3 +31,5 @@ App Store에 존재하지 않는 ‘**양방향 언어 교환 채팅 앱**’의
 - UI 고도화 및 테마 추가
 
 ---
+## 시연 유튜브 링크
+https://www.youtube.com/watch?v=7qSGaKtIask
